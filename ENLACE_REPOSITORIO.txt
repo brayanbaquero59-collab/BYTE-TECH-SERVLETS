@@ -1,0 +1,6 @@
+ENLACE DEL REPOSITORIO GITHUB
+
+Pega aquí la URL real del repositorio que crearás en tu cuenta de GitHub.
+Ejemplo de formato: https://github.com/USUARIO/BYTE_TECH_SERVLETS
+
+IMPORTANTE: El enlace de ejemplo no es un repositorio real. Debes reemplazarlo por la URL de tu repositorio publicado.
